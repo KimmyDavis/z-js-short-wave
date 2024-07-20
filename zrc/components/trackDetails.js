@@ -3,7 +3,7 @@ import {
   css,
   useStore,
   useEffect,
-} from "/node_modules/z-js-framework/dist/z.js";
+} from "../../node_modules/z-js-framework/dist/z.js";
 import { songStore } from "../config/store.js";
 
 const trackDetails = () => {

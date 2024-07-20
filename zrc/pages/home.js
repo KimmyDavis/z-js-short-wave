@@ -4,7 +4,7 @@ import {
   useState,
   useEffect,
   useStore,
-} from "/node_modules/z-js-framework/dist/z.js";
+} from "../../node_modules/z-js-framework/dist/z.js";
 import playlist from "../components/playlist.js";
 import trackDetails from "../components/trackDetails.js";
 import playerUI from "../components/playerUI.js";
