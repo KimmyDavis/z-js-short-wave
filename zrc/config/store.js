@@ -1,4 +1,4 @@
-import { createStore } from "/node_modules/z-js-framework/dist/z.js";
+import { createStore } from "../../node_modules/z-js-framework/dist/z.js";
 
 const fallBackSong = {
   title: "oceans",
