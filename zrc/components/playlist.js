@@ -1,4 +1,11 @@
-import { html, css, reactive, List, useEffect, useStore } from "z-js-framework";
+import {
+  html,
+  css,
+  reactive,
+  List,
+  useEffect,
+  useStore,
+} from "../../node_modules/z-js-framework/dist/z.js";
 import { songStore } from "../config/store.js";
 
 const playlist = (songs) => {
