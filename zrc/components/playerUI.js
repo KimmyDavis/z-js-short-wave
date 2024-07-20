@@ -5,7 +5,7 @@ import {
   getRef,
   useState,
   useStore,
-} from "../../node_modules/z-js-framework/dist/z.js";
+} from "z-js-framework";
 import { songStore } from "../config/store.js";
 
 const playerUI = (songs) => {

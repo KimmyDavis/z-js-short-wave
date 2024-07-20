@@ -1,10 +1,4 @@
-import {
-  html,
-  css,
-  useState,
-  useEffect,
-  useStore,
-} from "../../node_modules/z-js-framework/dist/z.js";
+import { html, css, useState, useEffect, useStore } from "z-js-framework";
 import playlist from "../components/playlist.js";
 import trackDetails from "../components/trackDetails.js";
 import playerUI from "../components/playerUI.js";

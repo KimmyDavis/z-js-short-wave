@@ -1,9 +1,4 @@
-import {
-  html,
-  css,
-  useStore,
-  useEffect,
-} from "../../node_modules/z-js-framework/dist/z.js";
+import { html, css, useStore, useEffect } from "z-js-framework";
 import { songStore } from "../config/store.js";
 
 const trackDetails = () => {

@@ -1,6 +1,6 @@
 "use strict";
 
-import { render } from "../../node_modules/z-js-framework/dist/z.js";
+import { render } from "z-js-framework";
 import Home from "./pages/home.js";
 
 const root = document.querySelector("#root");
